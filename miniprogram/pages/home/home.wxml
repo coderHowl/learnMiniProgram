@@ -1,0 +1,3 @@
+<!--miniprogram/home/home.wxml-->
+<text class="title">halo world</text>
+<button size='mini'>按钮</button>
